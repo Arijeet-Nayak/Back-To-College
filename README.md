@@ -4,7 +4,7 @@
 <br>
 <br>
 
-View Page : https://somyaranjansahu.github.io/Back-To-College/
+View Page : https://arijeet-nayak.github.io/Back-To-College/
 
 <h2>Tech Stack :</h2>
 <ol>
